@@ -110,3 +110,4 @@
 /Users/yingbingzhu/Desktop/CLearning/FinShark/api/bin/Debug/net9.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 /Users/yingbingzhu/Desktop/CLearning/FinShark/api/bin/Debug/net9.0/Newtonsoft.Json.dll
 /Users/yingbingzhu/Desktop/CLearning/FinShark/api/bin/Debug/net9.0/Newtonsoft.Json.Bson.dll
+/Users/yingbingzhu/Desktop/CLearning/FinShark/api/obj/Debug/net9.0/api.sourcelink.json
